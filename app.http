@@ -1,0 +1,19 @@
+GET http://localhost:3001/pujalist/
+
+###
+GET http://localhost:3001/pujadetails/1
+
+###
+GET http://localhost:3001/puja_carousel_image
+
+###
+GET http://localhost:3001/puja_process
+
+###
+GET http://localhost:3001/puja_process
+
+###
+GET http://localhost:3001/puja_all_details/3
+
+###
+GET http://localhost:3001/test/1
